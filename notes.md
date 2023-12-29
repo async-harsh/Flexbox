@@ -13,7 +13,7 @@ Any element can be both a flex container as well as a flex item. We can also put
 
 What da heck is `flex:1`?
 
-The flex shorhand:
+  The flex shorhand:
 
 The flex declaratoin is a shorthand for 3 props which can be set not on the flex container but on the **flex item**.
 These props  affect how flex items size themselves within their container.
